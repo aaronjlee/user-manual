@@ -1,4 +1,4 @@
-# User Manual: Aaron Lee
+# Aaron Lee
 
 ## My style
 * I’ve been hard-wired as a problem solver. Present me with any challenge, and I will see it as a problem, or a distraction from a key problem, where we can find a solution.
